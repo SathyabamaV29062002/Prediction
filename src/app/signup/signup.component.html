@@ -1,0 +1,34 @@
+<div class="container">
+  <form [formGroup]="singup" (ngSubmit)="singupdata(singup)" class="form-box1">
+      <h3>Signup </h3>
+      <div class="form-group">
+          <label>First Name</label>
+          <input type="text" formControlName="fname" class="form-control mb-3 mt-3" placeholder="Enter First Name"/>
+      </div>
+
+      <div class="form-group">
+          <label>Last name</label>
+          <input type="text" formControlName="lname" class="form-control mb-3 mt-3" placeholder="Enter Last Name"/>
+      </div>
+
+      <div class="form-group">
+          <label>Email</label>
+          <input type="eamil" formControlName="email" class="form-control mb-3 mt-3" placeholder="Enter Email"/>
+      </div>
+
+      <div class="form-group">
+          <label>Phone No</label>
+          <input type="text" formControlName="phone" class="form-control mb-3 mt-3" placeholder="Enter Phone Number"/>
+      </div>
+
+      <div class="form-group">
+          <label>Password</label>
+          <input type="password" formControlName="password" class="form-control mb-3 mt-3" placeholder="Enter Password"/>
+      </div>
+      <span>You Have Already Account </span>
+      <a routerLink="login" (click)="sbtn()">singin</a>
+      <br/>
+      <button type="submit" class="btn btn-success">signup</button>
+  </form>
+</div>
+<router-outlet></router-outlet>

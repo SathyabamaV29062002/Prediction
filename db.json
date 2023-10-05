@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "Firstname": "sathyavelusamy2002@gmail.com",
+      "Lastname": "sathya",
+      "salary": ""
+    },
+    {
+      "id": 3,
+      "Firstname": "sathyabama",
+      "Lastname": "sathya",
+      "salary": ""
+    },
+    {
+      "id": 4,
+      "Firstname": "sathya",
+      "Lastname": "sathyavelusamy2002@gmail.com",
+      "salary": ""
+    },
+    {
+      "id": 5,
+      "Firstname": "velusamy2002@gmail.com",
+      "Lastname": "k",
+      "salary": ""
+    },
+    {
+      "id": 6,
+      "Firstname": "samy",
+      "Lastname": "s",
+      "salary": ""
+    },
+    {
+      "id": 7,
+      "Firstname": "sathyavelusamy",
+      "Lastname": "sathyavelusamy2002@gmail.com",
+      "salary": ""
+    },
+    {
+      "id": 8,
+      "Firstname": "sathyavelusamy2002@gmail.com",
+      "Lastname": "sathyavelusamy2002@gmail.com",
+      "salary": ""
+    },
+    {
+      "id": 9,
+      "Firstname": "Appa",
+      "Lastname": "velusamy",
+      "salary": ""
+    },
+    {
+      "id": 10,
+      "Firstname": "sgjcdhsc",
+      "Lastname": "f",
+      "salary": ""
+    },
+    {
+      "id": 11,
+      "Firstname": "pyrtf",
+      "Lastname": "s",
+      "salary": ""
+    },
+    {
+      "id": 12,
+      "Firstname": "xxxxxxxxxxxxxxxx",
+      "Lastname": "o",
+      "salary": ""
+    },
+    {
+      "id": 13,
+      "Firstname": "EDHUKKU VAALRA",
+      "Lastname": "YES",
+      "salary": ""
+    },
+    {
+      "id": 14,
+      "Firstname": "Velu",
+      "Lastname": "K",
+      "salary": ""
+    },
+    {
+      "id": 15,
+      "Firstname": "sdd",
+      "Lastname": "b"
+    },
+    {
+      "id": 16,
+      "Firstname": "sathyavelusamy2002@gmail.com",
+      "Lastname": "sathyavelusamy2002@gmail.com"
+    },
+    {
+      "id": 17,
+      "Firstname": "sathyavelusamy2002@gmail.com",
+      "Lastname": "sathyavelusamy2002@gmail.com"
+    },
+    {
+      "id": 18,
+      "Firstname": "sathyavelusamy2002@gmail.com",
+      "Lastname": "sathyavelusamy2002@gmail.com"
+    },
+    {
+      "id": 19,
+      "Firstname": "sathyavelusamy2002@gmail.com",
+      "Lastname": "sathyavelusamy2002@gmail.com"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Padma",
+      "email": 123,
+      "password": "122353554463",
+      "mobile": 12345674,
+      "id": 1
+    },
+    {
+      "fullname": "sangee",
+      "email": "sageevelusamy2002@gmail.com",
+      "password": "1vbreet56gh",
+      "mobile": 35465781,
+      "id": 2
+    },
+    {
+      "fullname": "Sathya",
+      "email": "sathyavelusamy2002@gmail.com",
+      "password": "Sweety123",
+      "mobile": 9345891198,
+      "id": 3
+    },
+    {
+      "fullname": "Sathyabama V",
+      "email": "sathyavelusamy2002@gmail.com",
+      "password": "Sweety2002",
+      "mobile": 9345891198,
+      "id": 4
+    },
+    {
+      "fullname": "Sathyabama V",
+      "email": "sathyavelusamy2002@gmail.com",
+      "password": "Sweety2002",
+      "mobile": 9345891198,
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
